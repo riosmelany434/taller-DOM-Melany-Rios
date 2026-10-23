@@ -1,0 +1,34 @@
+body {
+  background-color: #f5dde5; 
+  font-family: Arial;        
+}
+a {
+  color: #ad3a7a;
+}
+
+h1 {
+  color: #be185d; 
+}
+p{
+  color: #781b41;
+  background-color: #f6c8de;
+}
+
+
+h2 {
+  color: #be266a; 
+}
+
+
+input {
+  border: 2px solid #d4448c;             
+}
+
+button {
+  background-color: #ed63a8; 
+  color: white;             
+  border: none;            
+       
+}
+
+

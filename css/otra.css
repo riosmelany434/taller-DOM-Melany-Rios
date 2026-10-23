@@ -1,0 +1,51 @@
+body {
+  background-color: #fff0f5;
+}
+a {
+  color: #e676a5;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #f9a8d4;
+}
+
+h1 {
+  color: #be185d;
+}
+
+h2 {
+  color: #db2777;
+}
+
+input {
+  border: 2px solid #ec4899;
+}
+
+button {
+  background-color: #ec4899;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: #c73eac;
+}
+
+table {
+  border-collapse: collapse;
+  color: #751b40;
+  background-color: #f6c8de78;
+}
+
+th {
+  background-color: #eb71ae9f;
+  color: white;
+  border: 2px solid #e173cb;
+  padding: 10px;
+}
+
+td {
+  border: 2px solid #e173cb;
+  padding: 10px;
+}

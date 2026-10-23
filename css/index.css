@@ -1,0 +1,36 @@
+body {
+  background-color: #fff0f5;
+  padding: 10px;
+  margin: 30px;
+}
+p{
+  color: #5f1e39;
+  font-size: 15px;
+}
+h1 {
+  color: #be185d;
+  border-bottom: 3px solid #f9a8d4;
+}
+
+h2 {
+  color: #db2777;
+}
+
+a {
+  color: #5f1e39;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #ffffff94;
+}
+
+li {
+  background-color: white;
+  border-left: 9px solid #e491b9;
+  padding: 10px;
+  margin: 10px;
+}
+li:hover {
+  background-color: #f3bbda94;
+}
